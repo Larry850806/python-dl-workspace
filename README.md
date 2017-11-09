@@ -1,6 +1,6 @@
 # python-workspace
 
-This is my python workspace or deep learning. It's based on `larry850806/workspace-base` with some `python` libraries installed.
+This is my python workspace. It's based on `larry850806/workspace-base` with some `python3` and `pip3` installed.
 
 ## version
 
