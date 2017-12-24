@@ -1,9 +1,8 @@
 # python-workspace
 
-This is my python workspace. It's based on `larry850806/workspace-base` with `python3.6`, `pip3`, `pipenv` installed.
+This is my python workspace. It's based on `larry850806/workspace-base` with `python3.6` and `pip3` installed.
 
 ## version
 
-- python3: `3.x`
-- pip3: `9.x`
-- pipenv: `latest`
+* python3: `3.x`
+* pip3: `9.x`
