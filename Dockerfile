@@ -15,5 +15,5 @@ RUN ln -s /usr/bin/python3.6 /usr/bin/python && \
     ln -s /usr/bin/pip3 /usr/bin/pip
 
 # install pipenv
-RUN pip install pipenv --no-cache-dir
+# RUN pip install pipenv --no-cache-dir
 
