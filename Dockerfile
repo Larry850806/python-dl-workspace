@@ -7,7 +7,7 @@ ENV LANG=C.UTF-8
 # install python3.6 and pip3
 RUN echo "deb http://ftp.de.debian.org/debian testing main" > /etc/apt/sources.list && \
     apt-get -y update && \
-    apt-get -y install python3.6 pip3 && \
+    apt-get -y install python3.6 python3-pip && \
     apt-get clean
 
 # setup link: python -> python3, pip -> pip3
